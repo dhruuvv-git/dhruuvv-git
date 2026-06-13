@@ -1,5 +1,5 @@
 # Dhruv
-** 3rd Sem Data Science and Engineering Student
+**3rd Sem Data Science and Engineering Student**
 **Building clean backend architectures, finding system flaws, and turning datasets into intelligent systems.**
 
 ---
@@ -55,8 +55,8 @@
 
 ## 📊 GitHub Stats:
 
-![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true)
+![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruuvv-git&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruuvv-git&layout=compact&theme=dark&hide_border=true)
 
 
 
