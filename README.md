@@ -1,6 +1,6 @@
 # Dhruv
-**3rd Sem Data Science and Engineering Student**
-**Building clean backend architectures, finding system flaws, and turning datasets into intelligent systems.**
+* **3rd Sem Data Science and Engineering Student**
+* **Building clean backend architectures, finding system flaws, and turning datasets into intelligent systems.**
 
 ---
 
@@ -44,7 +44,7 @@
 
 ---
 
-## 🎨 My Other Fortes
+## 🎨 Other Fortes
 * 🍳 **Culinary Arts & Literature:** Passionate about cooking, reading books across various genres, and writing poetry.
 * 🏋️‍♂️ **Fitness:** Lifting for more than 2 years
 * 🎨 **Design:** Creating custom cyberpunk graphics and apparel layouts.
