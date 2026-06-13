@@ -49,7 +49,7 @@
 * 🏋️‍♂️ **Fitness:** Lifting for more than 2 years
 * 🎨 **Design:** Creating custom cyberpunk graphics and apparel layouts.
 * 🎸 **Music:** Been playing guitar since 12 years
-* 🕹️ **Gaming:** Getting immersed in deep, atmospheric titles like *Persona* and *Resident Evil*.
+* 🕹️ **Gaming:** Getting immersed in deep, atmospheric titles like *Persona* , *Metal Gear Solid* and *Resident Evil*.
 
 ---
 
