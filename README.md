@@ -5,6 +5,7 @@
 ---
 
 ## 🚀 What I'm Up To
+* 🛑 **Project The No Longer 365:** An independant revolutionary gamified habit tracker application with an indentity interface that can run on Android and Windows.
 * 🏥 **Project Lumiere:** Developing a healthcare intelligence system for a hackathon that consolidates fragmented patient data into a unified, clean backend architecture.
 * 🥗 **Project NutriDish:** Building a comprehensive, standalone Java nutrition and macro-tracking application utilizing solid Object-Oriented Programming (OOP) principles.
 * 🛑 **Project The No Longer 365:** An independant revolutionary gamified habit tracker application with an indentity interface that can run on Android and Windows.
