@@ -44,7 +44,7 @@
 
 ---
 
-## 🎨 Other Fortes
+## 🎨 Other Forts
 * 🍳 **Culinary Arts & Literature:** Passionate about cooking, reading books across various genres, and writing poetry.
 * 🏋️‍♂️ **Fitness:** Lifting for more than 2 years
 * 🎨 **Design:** Creating custom cyberpunk graphics and apparel layouts.
