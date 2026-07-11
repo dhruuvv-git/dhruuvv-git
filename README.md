@@ -55,8 +55,8 @@
 
 ## 📊 GitHub Stats:
 
-![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruuvv-git&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruuvv-git&layout=compact&theme=dark&hide_border=true)
+![Dhruv's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=dhruuvv-git&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dhruuvv-git&layout=compact&theme=dark&hide_border=true)
 
 
 
